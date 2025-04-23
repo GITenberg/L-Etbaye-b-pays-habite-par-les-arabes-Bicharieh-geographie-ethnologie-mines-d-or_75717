@@ -1,0 +1,37 @@
+_repo: L-Etbaye-b-pays-habite-par-les-arabes-Bicharieh-geographie-ethnologie-mines-d-or_75717
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Linant de Bellefonds, L.-M.-A. (Louis Maurice Adolphe)
+    aliases:
+    - De Bellefonds, L.-M.-A. Linant (Louis Maurice Adolphe Linant)
+    - Bellefonds, L.-M.-A. Linant de (Louis Maurice Adolphe Linant de)
+    - Bellefonds, Louis Maurice Adolphe Linant de
+    birthdate: 1799
+    deathdate: 1883
+    gutenberg_agent_id: '58116'
+    url: http://www.gutenberg.org/2009/agents/58116
+    wikipedia: https://en.wikipedia.org/wiki/Louis_Maurice_Adolphe_Linant_de_Bellefonds
+description: ''
+gutenberg_issued: '2025-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75717'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9106456p
+pgterms:marc905: 20250320033606linantdebe
+pgterms:marc906: '1868'
+pgterms:marc907: FR
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by the Bibliothèque nationale de France/Gallica and the Bayerische Staatsbibliothek)
+publication_note: '  $aParis :$bArthus Bertrand, $c1868.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Red Sea Hills (Egypt and Sudan) -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: 'L''Etbaye : $b pays habité par les arabes Bicharieh : géographie, ethnologie,
+  mines d''or'
+url: http://www.gutenberg.org/ebooks/75717
